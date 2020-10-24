@@ -1,0 +1,27 @@
+Info 0    [15:41:32.45] Starting TS Server
+Info 1    [15:41:32.48] Version: 3.6.2
+Info 2    [15:41:32.48] Arguments: /usr/local/bin/node /usr/local/bin/tsserver --logFile /Users/simon/github/tmp/test/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/kt/b5x0yl_56h1drdb8xgfmbk_r0000gn/T/0bf0490c5c20f8fc0a3eecf720dfc136/tscancellation*
+Info 3    [15:41:32.48] Platform: darwin NodeVersion: 13 CaseSensitive: false
+Info 4    [15:41:32.74] Search path: /Users/simon/github/tmp/test
+Info 5    [15:41:32.75] For info: /Users/simon/github/tmp/test/a.js :: No config files found.
+Info 6    [15:41:32.81] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 7    [15:41:33.276] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1195ms
+Info 8    [15:41:33.276] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 9    [15:41:33.276] 	Files (6)
+
+Info 10   [15:41:33.276] -----------------------------------------------
+Info 11   [15:41:44.179] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [15:41:44.184] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 3ms
+Info 13   [15:41:44.184] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 14   [15:41:44.184] Structure before ensureProjectForOpenFiles:
+Info 15   [15:41:44.184] Structure after ensureProjectForOpenFiles:
+Info 16   [15:41:44.184] got projects updated in background, updating diagnostics for /Users/simon/github/tmp/test/a.js
+Info 17   [15:41:47.736] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 18   [15:41:47.740] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 4ms
+Info 19   [15:41:47.740] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 20   [15:41:47.785] getCompletionData: Get current token: 0
+Info 21   [15:41:47.785] getCompletionData: Is inside comment: 0
+Info 22   [15:41:47.785] getCompletionData: Get previous token 1: 0
+Info 23   [15:41:47.785] getCompletionData: Get previous token 2: 0
+Info 24   [15:41:47.786] getCompletionsAtPosition: isCompletionListBlocker: 1
+Info 25   [15:41:47.786] Returning an empty list because completion was requested in an invalid position.

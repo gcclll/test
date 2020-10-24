@@ -1,0 +1,21 @@
+function getTargetName() {
+	var x = 1 * (2 * 3)
+}
+
+var nums = [1, (2), 3, 4]
+	; (console.log(x), alert(2))
+function foo() {
+
+}
+
+var x = 1 * 2 + 3
+x = foo[2] + 3
+
+var word = ''
+{ function a(}) {
+
+}
+
+function b() {
+
+}

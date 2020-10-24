@@ -1,0 +1,14 @@
+
+In toplevel form:
+company-restclient.el:26:1:Warning: defcustom for
+    `company-restclient-header-values' fails to specify type
+company-restclient.el:26:1:Warning: defcustom for
+    `company-restclient-header-values' fails to specify containing group
+company-restclient.el:26:1:Warning: defcustom for
+    `company-restclient-header-values' fails to specify type
+company-restclient.el:26:1:Warning: defcustom for
+    `company-restclient-header-values' fails to specify containing group
+
+In company-restclient-candidates:
+company-restclient.el:94:11:Warning: looking-back called with 1 argument, but
+    requires 2-3
